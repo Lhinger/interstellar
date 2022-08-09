@@ -1,6 +1,11 @@
 ## Changelog
 </div>
 
+8/9/22
+
+fixing some broken code and getting it to properly work with gh pages.
+
+
 ### Summer '22 
 
 v0.0.5
